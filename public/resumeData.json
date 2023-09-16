@@ -8,7 +8,7 @@
     "email": "arushadabalar@gmail.com",
     "phone": "214-500-9028",
     "github":"https://github.com/ArushAdabala",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://github.com/ArushAdabala/ArushWebsite",
     "address":{
       "street":"4100 Greenbriar Dr",
       "city":"Houston",
@@ -25,12 +25,12 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/arush-adabala-8381a91a6",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/arush.adabala/",
         "className":"fa fa-instagram"
       },
       {
