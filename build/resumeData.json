@@ -1,78 +1,73 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Arush Adabala",
+    "description":"I am a software engineer who is passionate about using coding to solve real world problems",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Hey! I'm Arush. I'm a sophmore at Rice University currently planning on graduating in 2025. I am really excited about programming. I have a lot of experience with both frontend frameworks (React, HTML, CSS, Bootstrap, etc) and backend frameworks (Java, Python, PHP, MySQL, etc). Feel free to reach out.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "email": "arushadabalar@gmail.com",
+    "phone": "214-500-9028",
+    "github":"https://github.com/ArushAdabala",
+    "project":"https://github.com/ArushAdabala/ArushWebsite",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"4100 Greenbriar Dr",
+      "city":"Houston",
+      "state":"TX",
+      "zip": "77098"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"https://smallpdf.com/file#s=ef41a8d8-fd64-4990-84c7-7971528b026f",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/ArushAdabala",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/arush-adabala-8381a91a6",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/arush.adabala/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/ArushAdabala",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"My Skills/ Work Experience",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Rice University",
+        "degree":"B.S. in Computer Science",
+        "Expected Graduation Date":"May 2026",
+        "description":"Activities and societies: Eclipse (Rocketry Club), Baker College Resident Health Advisor, Baker College Permanent Improvements Committee"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"PCI Enterprises",
+        "title":"Web Development Intern",
+        "years":"May 2023 - August 2023",
+        "description":"Implemented new webpages using React, JavaScript, HTML, and CSS for our clients Turner Construction Company and McCarthy. Made webpages interface with client’s servers using PHP and MySQL. Attended daily stand-up meeting to learn more about the front-end and back-end operations of the software development cycle."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"BioKind Analytics",
+        "title":"Data Analyst and Programmer",
+        "years":"March 2023 - Present",
+        "description":"Worked with the nonprofit Onestar Foundation to do an analysis of Americorp's service member data to determine a correlation between different variables and outcomes such as if age and place of residence had a correlation to service member retention rate. Used Python, Pandas, and SciKitLearn to perform this data analysis."
+      },
+      {
+        "company":"iCode",
+        "title":"Technical Lead",
+        "years":"June 2021 - August 2022",
+        "description":"Taught middle and high school students programming fundamentals using languages such as Python and Java. Taught web page design using HTML, CSS, and JavaScript."
       }
     ],
     "skills":[
@@ -109,75 +104,39 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Rice Eclipse",
+        "category":"Self-Navigating Paraglider",
         "image":"01.jpg",
         "url":"https://www.canadianwanderlust.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
+        "title":"BioKind Analytics",
+        "category":"Data Analysis for Onestar Foundation",
+        "image":"02.png",
         "url":"http://www.timbakerdev.com"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
+        "title":"Meal-Rice",
+        "category":"Meal Prep App for University Students",
+        "image":"03.png",
         "url":"http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
+        "title":"Datathon 2023",
+        "category":"Predictive Data Analysis for Chevron",
+        "image":"04.png",
         "url":"http://www.timbakerdev.com"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
+        "title":"Arush Website",
+        "category":"React Based Personal Website",
+        "image":"05.png",
         "url":"http://www.smirkspace.com"
       },
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
+        "title":"Wise Words",
+        "category":"Word Game built with PHP and MySQL",
+        "image":"06.png",
         "url":"https://www.canadianwanderlust.com"
       }
     ]
