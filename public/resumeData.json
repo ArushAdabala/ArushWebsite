@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name":"Arush Adabala",
+    "description":"I am a software engineer who is passionate about using coding to solve real world problems",
+    "image":"profilepic.jpg",
+    "bio":"Hey! I'm Arush. I'm a sophmore at Rice University currently planning on graduating in 2025. I am really excited about programming. I have a lot of experience with both frontend frameworks (React, HTML, CSS, Bootstrap, etc) and backend frameworks (Java, Python, PHP, MySQL, etc). Feel free to reach out.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "arushadabalar@gmail.com",
+    "phone": "214-500-9028",
+    "github":"https://github.com/ArushAdabala",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"4100 Greenbriar Dr",
+      "city":"Houston",
+      "state":"TX",
+      "zip": "77098"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://smallpdf.com/file#s=ef41a8d8-fd64-4990-84c7-7971528b026f",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/ArushAdabala",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/ArushAdabala",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"My Skills/ Work Experience",
+    "education":[
+      {
+        "school":"Rice University",
+        "degree":"B.S. in Computer Science",
+        "Expected Graduation Date":"May 2026",
+        "description":"Activities and societies: Eclipse (Rocketry Club), Baker College Resident Health Advisor, Baker College Permanent Improvements Committee"
+      }
+    ],
+    "work":[
+      {
+        "company":"PCI Enterprises",
+        "title":"Web Development Intern",
+        "years":"May 2023 - August 2023",
+        "description":"Implemented new webpages using React, JavaScript, HTML, and CSS for our clients Turner Construction Company and McCarthy. Made webpages interface with client’s servers using PHP and MySQL. Attended daily stand-up meeting to learn more about the front-end and back-end operations of the software development cycle."
+      },
+      {
+        "company":"BioKind Analytics",
+        "title":"Data Analyst and Programmer",
+        "years":"March 2023 - Present",
+        "description":"Worked with the nonprofit Onestar Foundation to do an analysis of Americorp's service member data to determine a correlation between different variables and outcomes such as if age and place of residence had a correlation to service member retention rate. Used Python, Pandas, and SciKitLearn to perform this data analysis."
+      },
+      {
+        "company":"iCode",
+        "title":"Technical Lead",
+        "years":"June 2021 - August 2022",
+        "description":"Taught middle and high school students programming fundamentals using languages such as Python and Java. Taught web page design using HTML, CSS, and JavaScript."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"VueJs",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Rice Eclipse",
+        "category":"Self-Navigating Paraglider",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"BioKind Analytics",
+        "category":"Data Analysis for Onestar Foundation",
+        "image":"02.png",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Meal-Rice",
+        "category":"Meal Prep App for University Students",
+        "image":"03.png",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Datathon 2023",
+        "category":"Predictive Data Analysis for Chevron",
+        "image":"04.png",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Arush Website",
+        "category":"React Based Personal Website",
+        "image":"05.png",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Wise Words",
+        "category":"Word Game built with PHP and MySQL",
+        "image":"06.png",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
