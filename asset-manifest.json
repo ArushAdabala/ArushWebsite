@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ArushWebsite/static/css/main.31d6cfe0.css",
+    "main.js": "/ArushWebsite/static/js/main.00473f58.js",
+    "static/js/512.2db336dc.chunk.js": "/ArushWebsite/static/js/512.2db336dc.chunk.js",
+    "index.html": "/ArushWebsite/index.html",
+    "main.00473f58.js.map": "/ArushWebsite/static/js/main.00473f58.js.map",
+    "512.2db336dc.chunk.js.map": "/ArushWebsite/static/js/512.2db336dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.00473f58.js"
+  ]
+}
