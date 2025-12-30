@@ -33,13 +33,16 @@
       letter-spacing: -1px;      
    }
    header .banner-text h3 {
-      font: 17px/1.9em 'librebaskerville-regular', serif;
+      font: 17px/1.9em 'opensans-regular', sans-serif;
       width: 80%;
    }
+   header .hero-tagline { width: 75%; }
    header .banner-text hr {
       width: 65%;
       margin: 12px auto;
    }
+   header .hero-stats { margin-top: 20px; }
+   header .stat-card { min-width: 120px; }
    /* nav-wrap */
    #nav-wrap {
       font: 11px 'opensans-bold', sans-serif;
@@ -193,9 +196,14 @@
    }
    header .banner-text h1 { font: 68px/1.1em 'opensans-bold', sans-serif; }
    header .banner-text h3 {
-      font: 16px/1.9em 'librebaskerville-regular', serif;
+      font: 16px/1.9em 'opensans-regular', sans-serif;
       width: 85%;
    }
+   header .hero-tagline {
+      font: 15px/1.7em 'opensans-light', sans-serif;
+      width: 85%;
+   }
+   header .hero-stats { gap: 12px; }
    header .banner-text hr {
       width: 80%;
       margin: 18px auto;
@@ -222,6 +230,9 @@
       padding: 15px 20px;
    }
    #about .main-col { padding-right: 30px; }
+   #about .about-highlights {
+      text-align: left;
+   }
 
 
    /* Resume Section
@@ -254,7 +265,14 @@
 
    /* Portfolio Section
    /* ----------------------------------------------------------------- */
-   #portfolio-wrapper .columns { margin-bottom: 40px; }
+   #portfolio-wrapper.portfolio-timeline {
+      gap: 20px;
+      padding-bottom: 32px;
+   }
+   .timeline-item {
+      min-width: 260px;
+      max-width: 280px;
+   }
    .popup-modal {	max-width: 85%; }
 
 
@@ -355,9 +373,14 @@
       margin: 0 auto 24px auto;
    }
    header .banner-text h3 {
-      font: 14px/1.9em 'librebaskerville-regular', sans-serif;
+      font: 14px/1.9em 'opensans-regular', sans-serif;
       width: 90%;
    }
+   header .hero-tagline {
+      font: 14px/1.7em 'opensans-light', sans-serif;
+      width: 92%;
+   }
+   header .stat-card { min-width: 110px; }
   
    /* header social links */
    header .social { font-size: 20px;}

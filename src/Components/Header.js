@@ -10,6 +10,8 @@ class Header extends Component {
     const github = this.props.data.github;
     const name = this.props.data.name;
     const description = this.props.data.description;
+    const tagline = this.props.data.tagline;
+    const stats = this.props.data.stats || [];
 
     return (
       <header id="home">
@@ -64,6 +66,11 @@ class Header extends Component {
             <Fade bottom duration={1200}>
               <h3>{description}.</h3>
             </Fade>
+            {tagline ? (
+              <Fade bottom duration={1400}>
+                <p className="hero-tagline">{tagline}</p>
+              </Fade>
+            ) : null}
             <hr />
             <Fade bottom duration={2000}>
               <ul className="social">
@@ -75,6 +82,18 @@ class Header extends Component {
                 </a>
               </ul>
             </Fade>
+            {stats.length ? (
+              <Fade bottom duration={2200}>
+                <div className="hero-stats">
+                  {stats.map((stat) => (
+                    <div key={stat.label} className="stat-card">
+                      <span className="stat-value">{stat.value}</span>
+                      <span className="stat-label">{stat.label}</span>
+                    </div>
+                  ))}
+                </div>
+              </Fade>
+            ) : null}
           </div>
         </div>
 

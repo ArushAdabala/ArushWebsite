@@ -2,6 +2,7 @@
   "main": {
     "name":"Arush Adabala",
     "description":"I am a software engineer who is passionate about using coding to solve real world problems",
+    "tagline":"Building systems that feel fast, fair, and human-centered.",
     "image":"profilepic.jpg",
     "bio":"Hey! I'm Arush. I'm a sophmore at Rice University currently planning on graduating in 2025. I am really excited about programming. I have a lot of experience with both frontend frameworks (React, HTML, CSS, Bootstrap, etc) and backend frameworks (Java, Python, PHP, MySQL, etc). Feel free to reach out.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -17,6 +18,17 @@
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"https://smallpdf.com/file#s=ef41a8d8-fd64-4990-84c7-7971528b026f",
+    "highlights":[
+      "Research focus on fairness in ML and graph systems",
+      "Ship full-stack products from prototype to deployment",
+      "Obsessed with clean UX and measurable impact"
+    ],
+    "stats":[
+      { "label":"Years Coding", "value":"7+" },
+      { "label":"Projects Shipped", "value":"20+" },
+      { "label":"Research Labs", "value":"3" },
+      { "label":"Hackathons", "value":"8" }
+    ],
     "social":[
       {
         "name":"facebook",
@@ -44,30 +56,42 @@
     "skillmessage":"My Skills/ Work Experience",
     "education":[
       {
-        "school":"Rice University",
-        "degree":"B.S. in Computer Science",
-        "Expected Graduation Date":"May 2026",
-        "description":"Activities and societies: Eclipse (Rocketry Club), Baker College Resident Health Advisor, Baker College Permanent Improvements Committee"
+        "school":"Rice University, College of Engineering",
+        "degree":"B.S. Computer Science, B.S. Operations Research",
+        "graduated":"Expected Dec 2026",
+        "description":"GPA: 3.82. Selected Coursework: Data Structure and Algorithms (COMP 182), Linear Algebra (MATH 355), Multivariable Calculus (MATH 212), Reasoning About Algorithms (COMP 382), Probability & Statistics (STAT 310), Stochastic Modelling (CMOR 350), Graph Theory (CMOR 404), Simulations of Stochastic Models (CMOR 451), Introduction to Operations Research (CMOR 360), Probabilistic Algorithms (COMP 480), Large Scale Optimization (CMOR 442), Artificial Intelligence (COMP 440)."
       }
     ],
     "work":[
       {
-        "company":"PCI Enterprises",
-        "title":"Web Development Intern",
-        "years":"May 2023 - August 2023",
-        "description":"Implemented new webpages using React, JavaScript, HTML, and CSS for our clients Turner Construction Company and McCarthy. Made webpages interface with client’s servers using PHP and MySQL. Attended daily stand-up meeting to learn more about the front-end and back-end operations of the software development cycle."
+        "company":"Rice University",
+        "title":"Research Assistant",
+        "years":"August 2025 - Present",
+        "description":"Working with Professor Arlei Silva at Rice University. Researching fairness in Graph Neural Networks, showing that common dyadic fairness metrics (e.g., demographic parity) fail to capture ranking biases typical in recommender-style deployments. Designing a ranking-based fairness metric and a model-agnostic post-processing re-ranking algorithm for node classification that improves group exposure fairness while preserving practical utility."
       },
       {
-        "company":"BioKind Analytics",
-        "title":"Data Analyst and Programmer",
-        "years":"March 2023 - Present",
-        "description":"Worked with the nonprofit Onestar Foundation to do an analysis of Americorp's service member data to determine a correlation between different variables and outcomes such as if age and place of residence had a correlation to service member retention rate. Used Python, Pandas, and SciKitLearn to perform this data analysis."
+        "company":"Amazon",
+        "title":"Software Development Engineer",
+        "years":"March 2025 - August 2025",
+        "description":"Developed a math assistant for Next Gen Kindle Scribe devices. Used the MyScript API to recognize handwritten equations on an eink display. Built a segmentation model to separate user equations and track variables across equations. Stored equations and strokes in a graph and used a union find approach to optimize recognition and equation solving. Automatically converted results to a LaTeX format and rendered them on the eink display. Return offer (May 2026)."
       },
       {
-        "company":"iCode",
-        "title":"Technical Lead",
-        "years":"June 2021 - August 2022",
-        "description":"Taught middle and high school students programming fundamentals using languages such as Python and Java. Taught web page design using HTML, CSS, and JavaScript."
+        "company":"MD Anderson Cancer Center",
+        "title":"Research Assistant",
+        "years":"March 2024 - May 2025",
+        "description":"Worked in the Shang Laboratory to develop CoCoNet, an open-source software that uses gene co-expression networks to identify relevance of certain tissues in diseases. Used Python and R to develop an algorithm that uses a Covariance Regression Network model to express gene level effect measurements as a function of tissue-specific co-expression adjacency matrices. Used a composite likelihood estimator to rank tissues in order of relevance to certain disease traits. Improved runtime efficiency by creating a Minimum Spanning Tree of the co-expression network to identify hubs and reduce the number of candidate genes."
+      },
+      {
+        "company":"Ericsson",
+        "title":"Software Development Engineering Intern",
+        "years":"May 2024 - Aug 2024",
+        "description":"Worked in the Cloud Software & Services Group to develop a retrieval-augmented generation model to let teams upload client documentation and ask project-specific questions during software development. The model analyzes Jira tickets in real time to perform end-to-end hyper-tuning. Used Python, SQL, and Gemma-7b to create document embeddings, store them in a database, query relevant document chunks, and generate user-friendly output. Used React and Tailwind to build a front-end for document upload and querying. The product is expected to increase software development efficiency by 25% and reduce human errors by 35%."
+      },
+      {
+        "company":"Rice University",
+        "title":"Teaching Assistant",
+        "years":"Fall 2024",
+        "description":"Teaching Assistant for Data Structures and Algorithms course (COMP 382)."
       }
     ],
     "skills":[
@@ -106,36 +130,42 @@
       {
         "title":"Rice Eclipse",
         "category":"Self-Navigating Paraglider",
+        "tech":["Autonomy", "Embedded", "Control"],
         "image":"01.jpg",
         "url":"https://www.canadianwanderlust.com"
       },
       {
         "title":"BioKind Analytics",
         "category":"Data Analysis for Onestar Foundation",
+        "tech":["Python", "Pandas", "Insights"],
         "image":"02.png",
         "url":"http://www.timbakerdev.com"
       },
       {
         "title":"Meal-Rice",
         "category":"Meal Prep App for University Students",
+        "tech":["React", "Mobile", "UX"],
         "image":"03.png",
         "url":"http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
         "title":"Datathon 2023",
         "category":"Predictive Data Analysis for Chevron",
+        "tech":["ML", "Forecasting", "Data Viz"],
         "image":"04.png",
         "url":"http://www.timbakerdev.com"
       },
       {
         "title":"Arush Website",
         "category":"React Based Personal Website",
+        "tech":["React", "Design", "Brand"],
         "image":"05.png",
         "url":"http://www.smirkspace.com"
       },
       {
         "title":"Wise Words",
         "category":"Word Game built with PHP and MySQL",
+        "tech":["PHP", "MySQL", "Game"],
         "image":"06.png",
         "url":"https://www.canadianwanderlust.com"
       }
