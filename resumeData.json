@@ -4,12 +4,12 @@
     "description":"I am a software engineer who is passionate about using coding to solve real world problems",
     "tagline":"Building systems that feel fast, fair, and human-centered.",
     "image":"profilepic.jpg",
-    "bio":"Hey! I'm Arush. I'm a sophmore at Rice University currently planning on graduating in 2025. I am really excited about programming. I have a lot of experience with both frontend frameworks (React, HTML, CSS, Bootstrap, etc) and backend frameworks (Java, Python, PHP, MySQL, etc). Feel free to reach out.",
+    "bio":"Software engineer with strong ML research and industry experience across Amazon, Ericsson, Rice University, and MD Anderson. Built systems ranging from RAG platforms and GNN fairness algorithms to embedded ML for Kindle Scribe. Combines deep algorithmic foundations with production-level engineering to deliver scalable, high-impact AI products.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "arushadabalar@gmail.com",
     "phone": "214-500-9028",
     "github":"https://github.com/ArushAdabala",
-    "project":"https://github.com/ArushAdabala/ArushWebsite",
+    "project":"https://github.com/ArushAdabala",
     "address":{
       "street":"4100 Greenbriar Dr",
       "city":"Houston",
@@ -132,42 +132,70 @@
         "category":"Self-Navigating Paraglider",
         "tech":["Autonomy", "Embedded", "Control"],
         "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://github.com/ArushAdabala/auto-recovery"
       },
       {
         "title":"BioKind Analytics",
         "category":"Data Analysis for Onestar Foundation",
         "tech":["Python", "Pandas", "Insights"],
         "image":"02.png",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://github.com/ArushAdabala/BioKind"
       },
       {
         "title":"Meal-Rice",
         "category":"Meal Prep App for University Students",
         "tech":["React", "Mobile", "UX"],
         "image":"03.png",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"https://github.com/Real-Human-1000/hack-rice-2022-meals-app"
       },
       {
         "title":"Datathon 2023",
         "category":"Predictive Data Analysis for Chevron",
         "tech":["ML", "Forecasting", "Data Viz"],
         "image":"04.png",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://github.com/Real-Human-1000/datathon2023"
       },
       {
         "title":"Arush Website",
         "category":"React Based Personal Website",
         "tech":["React", "Design", "Brand"],
         "image":"05.png",
-        "url":"http://www.smirkspace.com"
+        "url":"https://github.com/ArushAdabala/ArushWebsite"
       },
       {
         "title":"Wise Words",
         "category":"Word Game built with PHP and MySQL",
         "tech":["PHP", "MySQL", "Game"],
         "image":"06.png",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://github.com/ArushAdabala/WiseWords---Game"
+      },
+      {
+        "title":"AHA Drone Delivery",
+        "category":"Drone Delivery System for Senior Design",
+        "tech":["Go", "Convex", "TypeScript"],
+        "image":"06.png",
+        "url":"https://github.com/ArushAdabala/comp-461"
+      },
+      {
+        "title":"Benders Decomp Optimization",
+        "category":"Optimization of Linear Programs for CMOR 462",
+        "tech":["Python", "LP", "Gurobi"],
+        "image":"06.png",
+        "url":"https://github.com/ArushAdabala/CMORPROJ"
+      },
+      {
+        "title":"Malloc",
+        "category":"Optimized Memory Allocator",
+        "tech":["C"],
+        "image":"06.png",
+        "url":"https://github.com/RICE-COMP321-S24/malloc-ArushAdabala"
+      },
+      {
+        "title":"Malloc",
+        "category":"Optimized Memory Allocator",
+        "tech":["C"],
+        "image":"06.png",
+        "url":"https://github.com/ArushAdabala/DAFNE"
       }
     ]
   }
