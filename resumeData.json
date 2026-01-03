@@ -21,7 +21,7 @@
     "highlights":[
       "Research focus on fairness in ML and graph systems",
       "Ship full-stack products from prototype to deployment",
-      "Obsessed with clean UX and measurable impact"
+      "Obsessed with strong results and measurable impact"
     ],
     "stats":[
       { "label":"Years Coding", "value":"7+" },
@@ -59,7 +59,7 @@
         "school":"Rice University, College of Engineering",
         "degree":"B.S. Computer Science, B.S. Operations Research",
         "graduated":"Expected Dec 2026",
-        "description":"GPA: 3.82. Selected Coursework: Data Structure and Algorithms (COMP 182), Linear Algebra (MATH 355), Multivariable Calculus (MATH 212), Reasoning About Algorithms (COMP 382), Probability & Statistics (STAT 310), Stochastic Modelling (CMOR 350), Graph Theory (CMOR 404), Simulations of Stochastic Models (CMOR 451), Introduction to Operations Research (CMOR 360), Probabilistic Algorithms (COMP 480), Large Scale Optimization (CMOR 442), Artificial Intelligence (COMP 440)."
+        "description":"Selected Coursework: Data Structure and Algorithms (COMP 182), Linear Algebra (MATH 355), Multivariable Calculus (MATH 212), Reasoning About Algorithms (COMP 382), Probability & Statistics (STAT 310), Stochastic Modelling (CMOR 350), Graph Theory (CMOR 404), Simulations of Stochastic Models (CMOR 451), Introduction to Operations Research (CMOR 360), Probabilistic Algorithms (COMP 480), Large Scale Optimization (CMOR 442), Artificial Intelligence (COMP 440)."
       }
     ],
     "work":[
@@ -128,16 +128,49 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Fair Node Classification",
+        "category":"Post-Processing Algorithms to make GNNs more Fair",
+        "tech":["C", "Neural Networks"],
+        "image":"06.png",
+        "url":"https://github.com/ArushAdabala/DAFNE",
+        "pdf":"/proof (3).pdf"
+      },
+      {
         "title":"Rice Eclipse",
         "category":"Self-Navigating Paraglider",
         "tech":["Autonomy", "Embedded", "Control"],
         "image":"01.jpg",
-        "url":"https://github.com/ArushAdabala/auto-recovery"
+        "url":"https://github.com/ArushAdabala/auto-recovery",
+        "pdf":"/Design Showcase Posters (2).pdf"
+      },
+      {
+        "title":"AHA Drone Delivery",
+        "category":"Drone Delivery System for Senior Design",
+        "tech":["Go", "Convex", "TypeScript"],
+        "image":"06.png",
+        "url":"https://github.com/ArushAdabala/comp-461",
+        "pdf":"/temp (1).pdf"
+      },
+      {
+        "title":"Diversification Strategies",
+        "category":"Used Covariance Regression Modeling to test various diversification strategies",
+        "tech":["Python", "Nearest Neighbors", "Machine Learning"],
+        "image":"06.png",
+        "url":"https://github.com/ArushAdabala/DiversificationStrategies",
+        "pdf":"/report (7).pdf"
+      },
+      {
+        "title":"CoCoNet",
+        "category":"Using GNNs to better diagnose colon cancer",
+        "tech":["R", "Neural Networks"],
+        "image":"06.png",
+        "url":"https://github.com/ArushAdabala/Shang-Research",
+        "pdf":"/file.pdf"
       },
       {
         "title":"BioKind Analytics",
         "category":"Data Analysis for Onestar Foundation",
-        "tech":["Python", "Pandas", "Insights"],
+        "tech":["Python", "Pandas", "Data Science"],
         "image":"02.png",
         "url":"https://github.com/ArushAdabala/BioKind"
       },
@@ -169,13 +202,7 @@
         "image":"06.png",
         "url":"https://github.com/ArushAdabala/WiseWords---Game"
       },
-      {
-        "title":"AHA Drone Delivery",
-        "category":"Drone Delivery System for Senior Design",
-        "tech":["Go", "Convex", "TypeScript"],
-        "image":"06.png",
-        "url":"https://github.com/ArushAdabala/comp-461"
-      },
+
       {
         "title":"Benders Decomp Optimization",
         "category":"Optimization of Linear Programs for CMOR 462",
@@ -191,11 +218,39 @@
         "url":"https://github.com/RICE-COMP321-S24/malloc-ArushAdabala"
       },
       {
-        "title":"Malloc",
-        "category":"Optimized Memory Allocator",
-        "tech":["C"],
+        "title":"FEAT",
+        "category":"Automated Coding Grader",
+        "tech":["Java"],
         "image":"06.png",
-        "url":"https://github.com/ArushAdabala/DAFNE"
+        "url":"https://github.com/RiceComp215-Fall23/homework-6-ArushAdabala/tree/main/src/main/rice"
+      },
+      {
+        "title":"ILOC Comipler",
+        "category":"Compiler for ILOC code",
+        "tech":["C++", "Python"],
+        "image":"06.png",
+        "url":"https://github.com/ArushAdabala/ILOC-compiler"
+      },
+      {
+        "title":"AI Models",
+        "category":"Various AI Models for COMP 440",
+        "tech":["Python"],
+        "image":"06.png",
+        "url":"https://github.com/ArushAdabala/AIModels"
+      },
+      {
+        "title":"OwlDB",
+        "category":"NoSQL Database for a chat messaging system",
+        "tech":["Go"],
+        "image":"06.png",
+        "url":"https://github.com/ArushAdabala/OwlDB"
+      },
+      {
+        "title":"OwlMessaging",
+        "category":"Chat Service for Rice Students",
+        "tech":["TypeScript"],
+        "image":"06.png",
+        "url":"https://github.com/ArushAdabala/OwlMessaging"
       }
     ]
   }
